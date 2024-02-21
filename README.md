@@ -10,9 +10,6 @@
 
 <h1>
 Harshal Shirsath<br>
-shirsath@umd.edu<br>
-CMSC848F<br>
-Assignment 4
 </h1>
 <h1>1. Classification Model </h1>
 <h2>1.1 Test Accuracy for cls</h2>
